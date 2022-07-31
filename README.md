@@ -15,8 +15,8 @@ This API allows you to reserve a book.
 
 # Executed Requests:
 
-| Request | Request<br>Method|
-|---|---|
+| Request | Request Method|
+|---|:---:|
 |List of Books| GET |
 |Get a Single Book| GET |
 |Submit an Order| POST |
